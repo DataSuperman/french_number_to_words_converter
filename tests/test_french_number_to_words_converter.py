@@ -1,5 +1,5 @@
 import unittest
-from app.number_to_words_converter import FrenchNumberToWordsConverter
+from logic.number_to_words_converter import FrenchNumberToWordsConverter
 
 
 class TestFrenchNumberToWordsConverter(unittest.TestCase):
